@@ -29,3 +29,4 @@ git commit -m "Initial Commit"
 
 `npm i react-router-dom localforage match-sorter sort-by`
 
+`npm i @reduxjs/toolkit react-redux`
